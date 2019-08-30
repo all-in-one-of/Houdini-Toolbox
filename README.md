@@ -1,6 +1,8 @@
+
 This repository is for the Houdini Toolbox.
 
-## Installation
+#
+# Installation
 
 In order to use most of the features contained in this repo it is necessary to add/modify certain entries in your environment:
 - HOUDINI_PATH
